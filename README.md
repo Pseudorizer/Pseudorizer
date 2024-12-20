@@ -1,6 +1,6 @@
 ## Eyo 👋 I'm Emily - Frontend Software Engineer
 
-- Currently working [@Radweb](https://github.com/Radweb)
+- Currently working @Radweb
 
 <!--
 **Pseudorizer/Pseudorizer** is a ✨ _ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
