@@ -1,6 +1,12 @@
-## Eyo 👋 I'm Emily - Frontend Software Engineer
+## Eyo I'm Emily (she/her) 👋
 
-- Currently working @Radweb
+- 💼 Currently working [@Radweb](https://github.com/Radweb)
+  - Developing with Typescript, React, PHP and Laravel
+- 👩‍💻 Primarily interested in frontend development
+  - With a focus in DX, Accessibility and UX
+- 👩‍🎓 Graduated with a 1st from UoP in Software Engineering with Placement
+- Play a lot of vidya games 👾, on and off fencing 🤺, audio/video-phile 🎧, politics 🗳️
+- 🏳️‍⚧️
 
 <!--
 **Pseudorizer/Pseudorizer** is a ✨ _ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
