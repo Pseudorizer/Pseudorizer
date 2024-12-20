@@ -1,7 +1,9 @@
-## Hi there 👋
+## Eyo 👋 I'm Emily - Frontend Software Engineer
+
+- Currently working [@Radweb](https://github.com/Radweb)
 
 <!--
-**Pseudorizer/Pseudorizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pseudorizer/Pseudorizer** is a ✨ _ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
