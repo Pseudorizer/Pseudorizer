@@ -1,12 +1,12 @@
 ## Eyo I'm Emily (she/her) 👋
 
 - 💼 Currently working [@Radweb](https://github.com/Radweb)
-  - Developing with Typescript, React, PHP and Laravel
+  - Developing with Typescript, React, Tailwind, Storybook, PHP and Laravel
   - Heading up rewrites/redesigns of Radweb's core product - InventoryBase
 - 👩‍💻 Primarily interested in frontend development
   - With a focus in DX, Accessibility and UX
 - 👩‍🎓 Graduated with a 1st from UoP in Software Engineering with Placement
-- Play a lot of vidya games 👾, on and off fencing 🤺, audio/video-phile 🎧, politics 🗳️
+- Play a lot of vidya games 👾, on and off fencing 🤺, audio/video-phile 🎧, politics 🗳️, Moebius artwork 🎨
 - 🏳️‍⚧️
 
 <!--
