@@ -1,12 +1,12 @@
-## Eyo I'm Emily (she/her) 👋
+## Eyo I'm Emily (she/they) 👋
 
-- 💼 Currently working [@Radweb](https://github.com/Radweb)
-  - Developing with Typescript, React, Tailwind, Storybook, PHP and Laravel
-  - Heading up rewrites/redesigns of Radweb's core product - InventoryBase
+- 💼 Currently working at [Track24](https://www.track24.com/) on [AtlasNXT](https://www.atlasnxt.com/) as a Frontend Engineer
+  - Developing with Typescript, React, Tailwind, Next.js, Elixir and Phoenix
+  - Currently contributing to the frontend migration of AtlasNXT from the Elixir based framework Phoenix to Next.js as part of their integrations team.
 - 👩‍💻 Primarily interested in frontend development
   - With a focus in DX, Accessibility and UX
 - 👩‍🎓 Graduated with a 1st from UoP in Software Engineering with Placement
-- Play a lot of vidya games 👾, on and off fencing 🤺, audio/video-phile 🎧, politics 🗳️, Moebius artwork 🎨
+- Play a lot of vidya games 👾, on and off fencing 🤺, public transport and urban design 🚎, audio/video-phile 🎧, politics 🗳️, Moebius artwork 🎨
 - 🏳️‍⚧️
 
 <!--
