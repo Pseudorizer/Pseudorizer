@@ -1,4 +1,4 @@
-## Eyo I'm Emily (she/they) 👋
+## Eyo I'm Emily (any/all) 👋
 
 - 💼 Currently working at [Track24](https://www.track24.com/) on [AtlasNXT](https://www.atlasnxt.com/) as a Frontend Engineer
   - Developing with Typescript, React, Tailwind, Next.js, Elixir and Phoenix
