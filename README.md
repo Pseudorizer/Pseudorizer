@@ -1,8 +1,7 @@
 ## Eyo I'm Emily (any/all) 👋
 
 - 💼 Currently working at [Track24](https://www.track24.com/) on [AtlasNXT](https://www.atlasnxt.com/) as a Frontend Engineer.
-  - Developing with Typescript, React, Tailwind, Next.js, Elixir and Phoenix.
-  - Currently contributing to the frontend migration of AtlasNXT from the Elixir based framework Phoenix to Next.js as part of their integrations team.
+  - Developing with Typescript, React, Tailwind, Next.js, Elixir and Phoenix within AtlasNXT.
 - 👩‍💻 Primarily interested in frontend development.
   - With a focus in DX, Accessibility and UX.
 - 👩‍🎓 Graduated with a 1st from UoP in Software Engineering with Placement.
